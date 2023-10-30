@@ -1,5 +1,8 @@
 # Lab 2 - T1 | Leandro Brum da Silva Lacorte | Campo Minado
 
+![image](https://github.com/lblacorte/Lab_2-T1-Campo_Minado/assets/129808495/95368625-7576-4196-b76e-d6845008cafe)
+![image](https://github.com/lblacorte/Lab_2-T1-Campo_Minado/assets/129808495/8d3407b4-b41f-4e2d-95d9-54abd3597c82)
+
 ## Descrição:
 Este trabalho consiste de um jogo clássico Campo Minado, programado totalmente em C com a biblioteca gráfica Allegro 5, feito para rodar tanto em Windows quanto em Linux. Ele possui todo o funcionamento padrão do jogo, utiliza o mouse para jogar, tem interface e comandos simples e uma IA que tenta resolver o jogo sozinha. Serviu para exercitar o conceito de alocação dinâmica de variáveis simples, vetores e matrizes de Laboratório de Programação II.
 
